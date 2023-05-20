@@ -1,5 +1,7 @@
 :: run as admin
 
+:: Do not end directory variables with a \
+
 @ECHO OFF
 
 set gameDirectory=S:\Steam\steamapps\common\game
