@@ -1,5 +1,7 @@
 :: run as admin
 
+:: Do not end directory variables with a \
+
 @ECHO OFF
 
 set skDLL=C:\Program Files\Special K\SpecialK64.dll
