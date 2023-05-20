@@ -1,3 +1,5 @@
+:: run as admin
+
 @ECHO OFF
 
 set skDLL=C:\Program Files\Special K\SpecialK64.dll
