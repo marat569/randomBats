@@ -15,3 +15,5 @@ mklink "%gameDirectory%\%localAPI%" "%skDLL%"
 echo "making SpecialK.central"
 
 type NUL > "%gameDirectory%\SpecialK.central"
+
+pause
